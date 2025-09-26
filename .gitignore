@@ -1,0 +1,19 @@
+#  Data files
+data/*.csv         # Ignore all CSV files inside /data
+data/*.xlsx        # Ignore all Excel files inside /data
+data/raw/          # Ignore the entire 'raw' folder
+
+#  Secrets & Credentials
+*.env              # Environment variable files (API keys, DB creds)
+config.json        # Config files containing passwords
+
+#  OS & IDE files
+.DS_Store          # macOS Finder metadata
+Thumbs.db          # Windows image cache
+.ipynb_checkpoints # Jupyter checkpoint files
+.vscode/           # VS Code settings
+.idea/             # PyCharm/IntelliJ settings
+
+#  Temporary outputs
+*.log              # Log files
+*.tmp              # Temp files
