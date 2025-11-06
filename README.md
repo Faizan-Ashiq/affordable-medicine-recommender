@@ -1,14 +1,11 @@
-💊 **Affordable Medicine Recommendation System (Pakistan)**
-
-<!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faizan-ai/Affordable-Medicine-Recommendation/main/images/logo.png" alt="Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/Faizan-Ashiq/affordable-medicine-recommender/main/images/logo.png" alt="Logo" width="120" height="120">
 </p>
 
 <h1 align="center">💊 Affordable Medicine Recommendation System (Pakistan)</h1>
 <p align="center">
   <strong>AI-powered solution to reduce medicine costs through data-driven recommendations.</strong><br/>
-  <em>Developed by Muhammad Faizan — Data Scientist | AI Researcher | Healthcare Innovator</em>
+  <em>Developed by Muhammad Faizan — Data Scientist | AI Researcher </em>
 </p>
 
 ---
